@@ -1,4 +1,5 @@
 {
+  "translatedDescription": "Projeto construído no Next Level Week. Se trata de uma aplicação completa feita com React.js, Node.js e React Native que registra pontos de coleta de lixo em um mapa.",
   "technologies": [
     "React.js",
     "Node.js",
